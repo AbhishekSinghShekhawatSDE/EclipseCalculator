@@ -12,7 +12,7 @@
 3. Use "C" to clear.  
 
 ## 📡 Live Demo  
-🔗 **[EclipseCalculator Live](https://YOUR_USERNAME.github.io/EclipseCalculator/)**  
+🔗 **[EclipseCalculator Live](https://AbhishekSinghShekhawatSDE.github.io/EclipseCalculator/)**  
 
 ## 🛠 Tech Stack  
 - HTML, CSS, JavaScript  
